@@ -1,6 +1,6 @@
 # :크루아상: 뚜레쥬르 웹사이트 리뉴얼
 뚜레쥬르 브랜드의 공식 웹사이트를 리디자인하고, 사용자 경험을 고려한 반응형 웹사이트로 구현한 프로젝트입니다.
-![Image](https://github.com/user-attachments/assets/abdf6695-4977-4c1e-bb97-8ebfc5551f14.png)
+![Image](https://github.com/user-attachments/assets/abdf6695-4977-4c1e-bb97-8ebfc5551f14)
 ---
 ## :압정: 프로젝트 개요
 - **프로젝트명**: 뚜레쥬르 웹사이트 리뉴얼
