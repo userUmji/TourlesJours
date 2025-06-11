@@ -10,7 +10,7 @@
 ---
 ## :자오선이_있는_지구: 배포 주소
 :링크: [사이트 바로가기]( 사이트 주소를 넣어야 함 )
-:링크: [Figma 디자인 시안](https://www.figma.com/design/keujfuZxrwj3gFrX569d1F/E%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=352-2299&m=dev)
+:링크: [Figma 디자인 시안](https://www.figma.com/design/keujfuZxrwj3gFrX569d1F/E%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=352-2299&m=dev.png)
 ---
 ## :액자에_담긴_그림: 주요 화면
 | 메인 페이지 | 반응형 |
