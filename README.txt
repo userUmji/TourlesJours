@@ -8,7 +8,7 @@
 팀이름 ET(eam)  |  팀장 : 이 민 팀원 : 박승준, 엄지승
 <br><br>
 
-## 📅 제작기간 :(5일)
+## 📅 제작기간 :(7일)
  2025.05~2025.6
 <br><br>
 
@@ -74,14 +74,15 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 
 ### Header
 <div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/header.jpg" width="800"/>
+ ![Image](https://github.com/user-attachments/assets/162730e7-27d4-4d00-9b04-66f7f880003a)
 </div>
 페이지의 상단에 위치한 영역으로, 로고, 내비게이션 메뉴, 검색 아이콘 등이 포함되어 있습니다. 사용자가 사이트를 탐색할 때 필요한 주요 링크를 제공합니다. 
+스크롤할때 header 색상이 불투명하게 변겅되며 마우스롤 호버하면 색이 원상태로 돌아옵니다.
 <br><br><br>
 <b>헤더 반응형</b>
 <div  display="flex" align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/header2.jpg" width="300"/>
-<img src="https://github.com/yoondg/interparkticket-renewal/blob/main/header3.jpg" width="300"/>
+![Image](https://github.com/user-attachments/assets/c07ce1d8-a024-421c-be8a-3a43d36cfb39)
+![Image](https://github.com/user-attachments/assets/19d41c4c-0abb-4c2f-bf7c-500f90d29c56)
 </div>
 가로 너비가 768px 미만일 때는 헤더 안의 내비게이션 메뉴가 사라지고, 햄버거 아이콘이 생성됩니다.  
 햄버거 아이콘을 클릭하면 측면 내비게이션 메뉴가 나옵니다.
