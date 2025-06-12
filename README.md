@@ -1,3 +1,5 @@
+![mainPage](https://github.com/user-attachments/assets/4f5e6b81-44d7-49a4-8f3c-50e6d2893407)
+
 # 뚜레쥬르 리뉴얼
 
 ## 작업자 : 
@@ -80,18 +82,38 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 ![Image](https://github.com/user-attachments/assets/c07ce1d8-a024-421c-be8a-3a43d36cfb39)<br>
 가로 너비가 768px 미만일 때는 헤더 안의 내비게이션 메뉴가 사라지고, 햄버거 아이콘이 생성됩니다.<br>
 햄버거 아이콘을 클릭하면 측면 내비게이션 메뉴가 나옵니다.
-
 <br><br><br><br>
 
 ### Footer
 
-<br><br><br><br><br><br>
+<br><br><br><br> 
+###  Mini Menu Bar
+![미니메뉴바](https://github.com/user-attachments/assets/bf48c913-eccb-4b21-b019-0f9b8784381f)
+
+프로젝트의 모든 페이지 상단에는 **‘미니 메뉴바(Mini Menu Bar)’**가 고정되어 있어,
+가맹문의, 오늘의 빵, 매장찾기, 고객센터 등 주요 서브페이지로 빠르게 이동할 수 있도록 구성되어 있습니다. 
+<br><br> 
+![미니메뉴바 모바일](https://github.com/user-attachments/assets/60a6b7e8-5522-4d23-ba2f-65632d901f1c)
+
+또한, 반응형 환경에서는 스크롤 길이에 따라 미니 메뉴가 숨겨지고 대신 상단으로 이동할 수 있는 'Top 버튼'이 표시되어,
+모바일이나 좁은 화면에서도 사용자 편의성과 가시성을 높였습니다.
+<br><br><br><br> 
+
 ## 메인 페이지 
 
 ### section 1 메인 비주얼
 
-### section2  신메뉴 소개
+### section2  신메뉴 소개 
+<br><br>
+![신메뉴 섹션](https://github.com/user-attachments/assets/05922129-9af7-46a4-9f40-dd3c346ab770)
 
+<br>
+해당 영역은 뚜레쥬르의 새로운 메뉴를 직관적으로 소개하는 섹션으로, 사용자는 슬라이드를 통해 구매 가능한 제품들을 손쉽게 확인할 수 있습니다.
+좌우 내비게이션 버튼을 사용해 슬라이드를 넘길 수 있으며, 현재 슬라이드에만 제품 설명이 노출되도록 디자인하여 정보 전달의 명확성과 집중도를 높였습니다.
+또한 하단의 버튼을 클릭하면 **서브 페이지(제품 소개)**로 이동하여 보다 자세한 정보를 확인할 수 있도록 연결되어 있습니다. 
+<br><br> 
+
+반응형 디자인에서는 화면크기에 따라 요소들이 재배치 되고 슬라이드의 개수와 배치가 조정 되어 다양한 환경에서도 최적화된 사용성을 제공합니다,
 ### section3 일반 메뉴 소개
 <br><br>
 ![Image](https://github.com/user-attachments/assets/8726ceb7-54d6-464c-9239-9ce267b8c1a1)<br>
@@ -107,14 +129,56 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 ![Image](https://github.com/user-attachments/assets/d0846fb2-6cb3-4591-991f-07cc22b2985c)
 <br><br><br>
 반응형에서는 가로 배치가 아닌 세로로 배치되어 가독성과 사용성을 높였습니다.
+<br><br><br><br> 
+
+### section5 sns 
+<br><br>
+![sns 섹션](https://github.com/user-attachments/assets/11617c00-27dc-4102-9e50-04b00d98665e)
+<br>
+![sns 섹션 모바일](https://github.com/user-attachments/assets/cadef054-a57b-48e2-9af2-60076a890928)
+
+
+SNS 섹션은 4x2 그리드 레이아웃을 사용하여 이미지들을 깔끔하게 배치하였으며,
+각 이미지에 마우스 호버 시 확대되는 효과를 적용해 직관적인 시각적 피드백을 제공합니다.
+<br><br><br>
+
+
+반응형 디자인에서는 화면 크기에 따라 2x2 배열로 변경되어 스크롤 길이가 과도하게 길어지는 것을 방지하고,
+사용자가 추가 콘텐츠를 보고 싶을 때는 ‘더보기’ 버튼을 클릭하여 더 많은 내용을 확인할 수 있도록 구성하였습니다.
+
 <br><br><br><br>
 
-### section5  매장 찾기
+### section6  매장 찾기
 
 <br><br>
 
 ## 서브페이지 : 날씨에 따른 메뉴 추천, 브랜드 소개/연혁, 창업 안내,메뉴 안내, 매장 찾기
 <br>
+### 서브페이지 : 날씨에 따른 메뉴 추천 
+<br><br>
+
+![날씨](https://github.com/user-attachments/assets/f64951dd-6124-4cb3-9b6b-fd3deb227812)
+![날씨2](https://github.com/user-attachments/assets/e0a47d24-cc14-45ec-9d34-ed5501558f07)
+
+<br>
+해당 페이지는 미니 메뉴의 '오늘의 빵' 항목을 클릭했을 때 진입하는 서브페이지입니다.
+페이지 상단에는 **오늘의 날씨 정보(기온, 날씨 상태, 최고/최저 기온, 습도, 풍속)**가 표시되며,
+해당 날씨에 어울리는 추천 제품군을 슬라이드 형태로 제공하여 사용자에게 상황에 맞는 메뉴를 제안합니다.
+하단의 버튼을 클릭하면 서브페이지 - 메뉴 소개 영역으로 이동할 수 있도록 구성되어 있습니다.
+ 
+<br><br><br><br>
+
+### 서브페이지 :  브랜드 소개/연혁 
+<br><br>
+
+![브랜드1](https://github.com/user-attachments/assets/c3b48529-cf09-4b80-8b98-36dfc03e5ce2)
+![브랜드2](https://github.com/user-attachments/assets/aa0978b5-1bb9-42ca-9954-98537907eb36)
+
+<br>
+브랜드 페이지에서는 브랜드의 비전과 가치, 그리고 걸어온 연혁를 확인할 수 있습니다.
+탭 기능을 활용해 두 개의 주요 콘텐츠 영역으로 구분하였으며,
+애니메이션 효과를 적용해 사용자에게 지루하지 않고 생동감 있는 경험을 제공합니다.
+<br><br><br><br>
 
 ### 서브페이지 : 메뉴 안내
 <br><br>
@@ -157,7 +221,7 @@ swiper를 사용해서 제작하였으며 메뉴를 클릭하면 중앙에 해�
 
 
 ## 🔗 링크
-- [리뉴얼 디자인 시안 피그마 주소]()
+- [리뉴얼 디자인 시안 피그마 주소](https://www.figma.com/design/keujfuZxrwj3gFrX569d1F/E%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=352-2299&m=dev)
 =======
 # renewal_interpark_ticket
 >>>>>>> e49a78842c501b95afb44cf54389e4d3a7d9d87a
