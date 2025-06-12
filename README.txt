@@ -169,7 +169,6 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 </div>
 <div display="flex" align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/today2.jpg" width="300"/>
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/today3.jpg" width="150"/>
 </div>
 <br><br><br>
 반응형에서는 가로 배치가 아닌 세로로 배치되어 가독성과 사용성을 높였습니다.
