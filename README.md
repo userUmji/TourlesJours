@@ -167,4 +167,3 @@ swiper를 사용해서 제작하였으며 메뉴를 클릭하면 중앙에 해�
 
 ## 🔗 링크  
 - [리뉴얼 디자인 시안 피그마 주소](https://www.figma.com/design/keujfuZxrwj3gFrX569d1F/E%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=352-2299&m=dev)
-- [리뉴얼 디자인 시안 피그마 주소](https://www.figma.com/design/keujfuZxrwj3gFrX569d1F/E%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=352-2299&m=dev)
