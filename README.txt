@@ -70,7 +70,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 <br>
 
 ### Header
-
+![Image](https://github.com/user-attachments/assets/057e198f-974a-444f-a99c-02a16fa8fe80)
 ![Image](https://github.com/user-attachments/assets/162730e7-27d4-4d00-9b04-66f7f880003araw=true)
 
 페이지의 상단에 위치한 영역으로, 로고, 내비게이션 메뉴, 검색 아이콘 등이 포함되어 있습니다. 사용자가 사이트를 탐색할 때 필요한 주요 링크를 제공합니다. 
