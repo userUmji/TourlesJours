@@ -151,7 +151,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 ### section3 일반 메뉴 소개
 <br><br>
 <div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/ranking.gif" width="800"/>
+  ![Image](https://github.com/user-attachments/assets/8726ceb7-54d6-464c-9239-9ce267b8c1a1)
 </div><br>
 현재 판매 중인 뚜레쥬르의 메뉴를 보여주는 영역입니다.
 각 카테고리 탭을 클릭하면 그에 맞는 메뉴들이 나오며 오르쪽에 있는 메뉴 버튼을 누르면 그 정보가 왼쪽에 나옵니다.
@@ -160,15 +160,12 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 ### section4 창업 안내
 <br><br>
 <div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/today.jpg" width="800"/>
+  ![Image](https://github.com/user-attachments/assets/d3ddf45a-d9d1-4d6b-be8d-4de895c9e242)
 </div><br>
 각 영역을 마우스 클릭하면 클릭한 영역이 커지고 나머지들은 줄어들도록 구현하였습니다.
 이러한 시각적 효과는 사용자의 흥미를 유도하며 시각적 즐거움을 제공합니다.<br>
 <div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/today.gif" width="800"/>
-</div>
-<div display="flex" align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/today2.jpg" width="300"/>
+  ![Image](https://github.com/user-attachments/assets/d0846fb2-6cb3-4591-991f-07cc22b2985c)
 </div>
 <br><br><br>
 반응형에서는 가로 배치가 아닌 세로로 배치되어 가독성과 사용성을 높였습니다.
