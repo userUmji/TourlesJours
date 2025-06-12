@@ -74,7 +74,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 
 ### Header
 <div align="center">
- ![Image](https://github.com/user-attachments/assets/162730e7-27d4-4d00-9b04-66f7f880003a)
+ ![Image](https://github.com/user-attachments/assets/162730e7-27d4-4d00-9b04-66f7f880003araw=true)
 </div>
 페이지의 상단에 위치한 영역으로, 로고, 내비게이션 메뉴, 검색 아이콘 등이 포함되어 있습니다. 사용자가 사이트를 탐색할 때 필요한 주요 링크를 제공합니다. 
 스크롤할때 header 색상이 불투명하게 변겅되며 마우스롤 호버하면 색이 원상태로 돌아옵니다.
