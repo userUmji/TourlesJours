@@ -1,8 +1,8 @@
-<div align="center">
+
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/main-logo.png" width="170" alt="interparkticket-logo"/>
 
 # 뚜레쥬르 리뉴얼
-</div>
+
 
 ## 작업자 : 
 팀이름 ET(eam)  |  팀장 : 이 민 팀원 : 박승준, 엄지승
