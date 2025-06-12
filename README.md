@@ -118,18 +118,18 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 
 ### 서브페이지 : 메뉴 안내
 <br><br>
-<b>뚜레쥬르 메뉴 안내 페이지</b>
-<br><br>
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF.png" width="800"/>
+<b>뚜레쥬르 메뉴 안내 페이지</b><br>
+![Image](https://github.com/user-attachments/assets/eedf533d-f4ae-4882-a702-713f3a7a836c)
 뚜레쥬르 추천 메뉴 섹션입니다.
-swiper를 사용해서 제작하였으며 메뉴를 클릭하면 중앙에 해당 메뉴에 관한 정보가 표시됩니다.
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF.png" width="800"/>
+swiper를 사용해서 제작하였으며 메뉴를 클릭하면 중앙에 해당 메뉴에 관한 정보가 표시됩니다.<br><br>
+![Image](https://github.com/user-attachments/assets/d65a7604-87a1-4598-a7bc-55c2f3cce07b)
 뚜레쥬르 일반 메뉴 섹션입니다.
 메뉴를 클릭하면 그 위에 메뉴에 관한 정보가 표시됩니다.
-기본적으로 4개씩 2줄로 메뉴가 표시되며 더보기 버튼을 클릭하면 4 x 2형식으로 메뉴가 나오고 없으면 버튼은 사라집니다.
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF.png" width="800"/>
-메뉴 카테고리를 클릭하면 하위 카테고리가 나오고 하위 카테고리를 클릭하지 않으면 상위 카테고리에 맞는 메뉴들이 나옵니다.
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF.png" width="800"/>
+기본적으로 4개씩 2줄로 메뉴가 표시되며 더보기 버튼을 클릭하면 4 x 2형식으로 메뉴가 나오고 없으면 버튼은 사라집니다.<br><br>
+ ![Image](https://github.com/user-attachments/assets/0726d7b3-7ede-4568-a668-2b7b5ef130b6)
+메뉴 카테고리를 클릭하면 하위 카테고리가 나오고 하위 카테고리를 클릭하지 않으면 상위 카테고리에 맞는 메뉴들이 나옵니다.<br><br>
+ ![Image](https://github.com/user-attachments/assets/5d0cfc33-1415-4bb6-b55a-373b37cf29a6)
+ ![Image](https://github.com/user-attachments/assets/710d1c80-dd34-4955-9dcc-d451c71cccd2)
 - **검색 성공시** : 찾은 메뉴들을 보여줍니다.<br>
 - **실패시** : 메뉴를 찾을 수 없다는 이미지와 문구를 띄워줍니다.<br>
 <br><br><br><br>
