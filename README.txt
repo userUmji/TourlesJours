@@ -1,6 +1,3 @@
-
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/main-logo.png" width="170" alt="interparkticket-logo"/>
-
 # 뚜레쥬르 리뉴얼
 
 
