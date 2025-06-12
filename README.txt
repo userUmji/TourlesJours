@@ -57,14 +57,16 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 
 ## 📄 역할 분담
 이 민<br>
-<메인페이지> 사이드바 메뉴, 신메뉴 소개 섹션, sns 섹션
-<서브페이지> 날씨에 따라 메뉴 추천, 브랜드 소개, 연혁
+  <메인페이지> 사이드바 메뉴, 신메뉴 소개 섹션, sns 섹션
+  <서브페이지> 날씨에 따라 메뉴 추천, 브랜드 소개, 연혁
+
 박승준<br>
-<메인 페이지> 메인비주얼 섹션, 매장 찾기 섹션, 하단 footer
-<서브페이지> 창업 안내, 고객 센터
+  <메인 페이지> 메인비주얼 섹션, 매장 찾기 섹션, 하단 footer
+  <서브페이지> 창업 안내, 고객 센터
+
 엄지승<br>
-<메인페이지> 상단 header(메뉴), 일반 메뉴 소개 섹션, 창업 안내 섹션
-<서브페이지> 메뉴 안내, 매장 찾기
+  <메인페이지> 상단 header(메뉴), 일반 메뉴 소개 섹션, 창업 안내 섹션
+  <서브페이지> 메뉴 안내, 매장 찾기
 <br><br><br>
 
 ## 📝 페이지 구성
@@ -74,15 +76,14 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 <div align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/header.jpg" width="800"/>
 </div>
-페이지의 상단에 위치한 영역으로, 로고, 내비게이션 메뉴, 검색 창 등이 포함되어 있습니다. 사용자가 사이트를 탐색할 때 필요한 주요 링크를 제공합니다. 
+페이지의 상단에 위치한 영역으로, 로고, 내비게이션 메뉴, 검색 아이콘 등이 포함되어 있습니다. 사용자가 사이트를 탐색할 때 필요한 주요 링크를 제공합니다. 
 <br><br><br>
 <b>헤더 반응형</b>
 <div  display="flex" align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/header2.jpg" width="300"/>
 <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/header3.jpg" width="300"/>
 </div>
-가로 너비가 1200px 미만일 때는 헤더 안의 검색 창 ,내비게이션 메뉴, 언어 선택 등이 사라지고, 회원 정보 아이콘, 햄버거 아이콘이 생성됩니다.  
-회원 정보 아이콘을 클릭하면 회원 정보를 확인할 수 있는 측면 메뉴가 나옵니다.
+가로 너비가 768px 미만일 때는 헤더 안의 내비게이션 메뉴가 사라지고, 햄버거 아이콘이 생성됩니다.  
 햄버거 아이콘을 클릭하면 측면 내비게이션 메뉴가 나옵니다.
 
 <br><br><br><br>
@@ -130,7 +131,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 <br><br><br><br>
 
 
-### section2  티켓 오픈
+### section2  신메뉴 소개
 <br><br>
 <div align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A6%E1%86%BA%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B3%E1%86%AB.png" width="800"/>
@@ -146,7 +147,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 </div>
 <br><br><br><br>
 
-### section3 장르별 랭킹
+### section3 일반 메뉴 소개
 <br><br>
 <div align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/ranking.gif" width="800"/>
@@ -155,7 +156,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 각 장르의 탭을 클릭하면 순위에 맞게 공연 포스터가 표시됩니다.
 <br><br><br><br>
 
-### section4  오늘의 추천
+### section4 창업 안내
 <br><br>
 <div align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/today.jpg" width="800"/>
@@ -173,7 +174,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 반응형 디자인에서는 화면 크기에 따라 레이아웃이 변경되며, 작은 화면에서는 제목 리스트와 포스터가 세로로 배치되어 가독성과 사용성을 높였습니다.
 <br><br><br><br>
 
-### section5  interpark VIP
+### section5  매장 찾기
 <br><br>
 <div align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/interparkvip.gif" width="800"/>
@@ -189,28 +190,6 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 </div>
 
 <br><br><br><br>
-### section6  인터파크 PLAY
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/interparkplay.gif" width="800"/>
-</div><br>
-인터파크 티켓에서 작품의 소개 및 홍보 영상을 제공하는 섹션입니다. 
-각 탭을 클릭하면 해당 탭에 맞는 내용과 영상이 슬라이드 형태로 표시되도록 구성되었습니다.
-<br><br><br><br>
-
-### section7  베스트 관람후기
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/best.gif" width="800"/>
-</div><br>
-인터파크 티켓에서 작품의 소개 및 홍보 영상을 제공하는 섹션입니다. 
-각 탭을 클릭하면 해당 탭에 맞는 내용과 영상이 슬라이드 형태로 표시되도록 구성되었습니다.
-<br><br><br>
-반응형 디자인은 다음과 같이 조정하였습니다.
-<div display="flex" align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/best2.png" width="300"/>
-<img src="https://github.com/yoondg/interparkticket-renewal/blob/main/best3.png" width="300"/>
-</div>
-<br><br><br><br>
 
 ### section8 배너
 <br><br>
@@ -221,7 +200,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 </div>
 <br><br><br><br><br><br>
 
-## 서브페이지 : 예매하기, 공연 상세정보
+## 서브페이지 : 날씨에 따른 메뉴 추천, 브랜드 소개/연혁, 창업 안내, 매장 찾기
 <br><br>
 ### 예매하기 팝업
 <br><br>
