@@ -152,8 +152,8 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 <div align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/ranking.gif" width="800"/>
 </div><br>
-현재 진행 중인 공연의 장르 별 인기 순위를 보여주는 영역입니다.
-각 장르의 탭을 클릭하면 순위에 맞게 공연 포스터가 표시됩니다.
+현재 판매 중인 뚜레쥬르의 메뉴를 보여주는 영역입니다.
+각 카테고리 탭을 클릭하면 그에 맞는 메뉴들이 나오며 오르쪽에 있는 메뉴 버튼을 누르면 그 정보가 왼쪽에 나옵니다.
 <br><br><br><br>
 
 ### section4 창업 안내
@@ -161,7 +161,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 <div align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/today.jpg" width="800"/>
 </div><br>
-오늘의 추천 작품 섹션은 오른쪽 제목 리스트에 마우스를 호버하거나 3초마다 자동으로 각 작품 포스터의 메인 컬러에 따라 배경 색상과 내용이 변경되도록 구성되었습니다. 
+각 영역을 마우스 클릭하면 클릭한 영역이 커지고 나머지들은 줄어들도록 구현하였습니다.
 이러한 시각적 효과는 사용자의 흥미를 유도하며 시각적 즐거움을 제공합니다.<br>
 <div align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/today.gif" width="800"/>
@@ -171,7 +171,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/today3.jpg" width="150"/>
 </div>
 <br><br><br>
-반응형 디자인에서는 화면 크기에 따라 레이아웃이 변경되며, 작은 화면에서는 제목 리스트와 포스터가 세로로 배치되어 가독성과 사용성을 높였습니다.
+반응형에서는 가로 배치가 아닌 세로로 배치되어 가독성과 사용성을 높였습니다.
 <br><br><br><br>
 
 ### section5  매장 찾기
@@ -200,49 +200,37 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 </div>
 <br><br><br><br><br><br>
 
-## 서브페이지 : 날씨에 따른 메뉴 추천, 브랜드 소개/연혁, 창업 안내, 매장 찾기
+## 서브페이지 : 날씨에 따른 메뉴 추천, 브랜드 소개/연혁, 창업 안내,메뉴 안내, 매장 찾기
 <br><br>
-### 예매하기 팝업
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%8B%E1%85%A8%E1%84%86%E1%85%A2%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%E1%84%91%E1%85%A1%E1%86%B8%E1%84%8B%E1%85%A5%E1%86%B8.gif" width="800"/></div><br>
-예매하기 페이지에 진입하면 가장 먼저 표시되는 팝업창으로, 
-사용자가 공연 예매 및 관람에 필요한 필수 정보를 확인할 수 있습니다.
 
-<br><br><br><br>
-
-### 공연 상세정보
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A6.png" width="800"/></div><br>
-이 섹션에서는 공연에 대한 전체적인 정보를 확인할 수 있습니다. 메인 페이지의 티켓 오픈 섹션에 있는 16개의 공연에 각각에 대해 장소, 공연 기간, 공연 시간, 그리고 관심 수가 다르게 제공됩니다. 이를 통해 사용자는 각 공연에 대한 구체적인 정보를 손쉽게 확인할 수 있습니다.
-<br><br><br><br>
-
-### 출연진
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%8B%E1%85%A8%E1%84%86%E1%85%A2%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%AB.gif" width="800"/></div><br>
-공연에 출연하는 배우들의 이름과 역할 정보를 확인할 수 있는 섹션입니다.
- 메인 페이지의 티켓 오픈 섹션에 있는 16개의 공연 각각에 대해 출연진이 다르게 보입니다. 슬라이드 형태로 구현하였습니다.
-<br><br><br><br>
-
-### 탭메뉴
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%8B%E1%85%A8%E1%84%86%E1%85%A2%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%E1%84%90%E1%85%A2%E1%86%B8.gif" width="800"/></div><br>
-항목 별로 공연의 다양한 정보를 제공하는 섹션입니다.
-각 탭을 클릭하면 해당 탭에 맞는 정보가 표시됩니다.
-<br><br><br><br>
-
-### 서브페이지 : 공연장
+### 서브페이지 : 메뉴 안내
 <br><br><br>
-<b>공연장 별 대표 공연과 위치</b>
+<b>뚜레쥬르 메뉴 안내 페이지</b>
 <br><br>
 <div align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF.png" width="800"/></div><br>
-항목 별로 공연의 다양한 정보를 제공하는 섹션입니다.
-각 탭을 클릭하면 해당 탭에 맞는 정보가 표시됩니다.
+뚜레쥬르 추천 메뉴 섹션입니다.
+swiper를 사용해서 제작하였으며 메뉴를 클릭하면 중앙에 해당 메뉴에 관한 정보가 표시됩니다.
+  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF.png" width="800"/></div><br>
+뚜레쥬르 일반 메뉴 섹션입니다.
+메뉴를 클릭하면 그 위에 메뉴에 관한 정보가 표시됩니다.
+기본적으로 4개씩 2줄로 메뉴가 표시되며 더보기 버튼을 클릭하면 4 x 2형식으로 메뉴가 나오고 없으면 버튼은 사라집니다.
+  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF.png" width="800"/></div><br>
+메뉴 카테고리를 클릭하면 하위 카테고리가 나오고 하위 카테고리를 클릭하지 않으면 상위 카테고리에 맞는 메뉴들이 나옵니다.
+  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF.png" width="800"/></div><br>
+- **검색 성공시** : 찾은 메뉴들을 보여줍니다.<br>
+- **실패시** : 메뉴를 찾을 수 없다는 이미지와 문구를 띄워줍니다.<br>
 <br><br><br><br>
+
+### 서브페이지 : 매장 찾기
+<br><br><br>
+<b>뚜레쥬르 매장 찾기 페이지</b>
+<img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF.png" width="800"/></div><br>
+왼쪽에는 뚜레쥬르 매장에 관한 정보 리스트가 나오고 오르쪽에는 지도 API를 사용해서 위치와 정보를 보여줍니다.
+<img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF.png" width="800"/></div><br>
+메인 페이지에서 검색하고 매장찾기 버튼을 누르면 서브페이지와 연결되어 검색한 값을 표시합니다.
+
+
 
 
 ### 공연장 대표 공연
