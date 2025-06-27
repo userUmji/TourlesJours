@@ -13,7 +13,7 @@ var swiper01 = new Swiper(".mySwiper01", {
   breakpoints: {
     0: {
       slidesPerView: 3,
-      spaceBetween : 10,
+      spaceBetween : 30,
     },
     768:{
       slidesPerView: 4,
@@ -32,10 +32,11 @@ swiper02 = new Swiper(".mySwiper02", {
   breakpoints: {
     0: {
       slidesPerView: 3,
-      spaceBetween : 10,
+      spaceBetween : 30,
     },
     768:{
       slidesPerView: 4,
+
     }
   }
 });

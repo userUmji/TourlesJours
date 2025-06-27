@@ -33,10 +33,10 @@ window.onload = function () {
   //var ps = new kakao.maps.services.Places();
   var infowindow = new kakao.maps.InfoWindow({ zIndex: 1 });
   // 메인페이지에서 검색한 값이 있으면
-  if (test != "" && test.trim() != "") {
+  if (main_search_location != "" && main_search_location.trim() != "") {
     for (store in stores) {
       for (st of stores[store]) {
-        if (st.name.includes(test) || st.location.includes(test)) {
+        if (st.name.includes(main_search_location) || st.location.includes(main_search_location)) {
           list.push(st);
         }
       }
