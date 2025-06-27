@@ -685,11 +685,68 @@ html {
   }
   .menu-zone .inner .recommend-menu .info-card {
     width: 100%;
-    height: 350px;
+    height: auto;
     top: 0;
+  }
+  .menu-zone .inner .recommend-menu .info-card .info-wrap {
+    padding-bottom: 15px;
   }
   .menu-zone .inner .recommend-menu .info-card .ingredient-wrap {
     padding: 20px 30px;
+  }
+  .menu-zone .inner .recommend-menu .info-card .ingredient-wrap .top {
+    gap: 20px;
+  }
+  .menu-zone .inner .recommend-menu .info-card .ingredient-wrap .top > div {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    gap: 8px;
+  }
+  .menu-zone .inner .recommend-menu .info-card .ingredient-wrap .top > div > p {
+    font-size: 14px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    gap: 3px;
+  }
+  .menu-zone .inner .recommend-menu .info-card .ingredient-wrap .top > div > p span {
+    font-size: 13px;
+  }
+  .menu-zone .inner .recommend-menu .info-card .ingredient-wrap .top .left {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+  .menu-zone .inner .recommend-menu .info-card .ingredient-wrap .top .left::after {
+    right: -10px;
+  }
+  .menu-zone .inner .recommend-menu .info-card .ingredient-wrap .top .center {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+  .menu-zone .inner .recommend-menu .info-card .ingredient-wrap .top .center::after {
+    right: -10px;
+  }
+  .menu-zone .inner .recommend-menu .info-card .ingredient-wrap .top .right {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+  .menu-zone .inner .recommend-menu .info-card .ingredient-wrap .top .right::after {
+    width: 0;
   }
   .menu-zone .inner .search-menu {
     margin-bottom: 40px;
@@ -816,7 +873,7 @@ html {
     position: fixed;
     width: 90%;
     height: auto;
-    top: 30%;
+    top: 50%;
     border: 1px solid #8E8E8E;
   }
   .menu-zone .inner .menu-wrap .card-wrap .card .info-card .info-wrap {
@@ -841,7 +898,7 @@ html {
     -webkit-box-flex: 1;
         -ms-flex: 1;
             flex: 1;
-    position: relative;
+    gap: 8px;
   }
   .menu-zone .inner .menu-wrap .card-wrap .card .info-card .ingredient-wrap .top > div::after {
     content: "";
@@ -853,6 +910,7 @@ html {
     background-color: #8E8E8E;
   }
   .menu-zone .inner .menu-wrap .card-wrap .card .info-card .ingredient-wrap .top > div > p {
+    gap: 3px;
     font-size: 14px;
     color: rgb(114, 114, 114);
   }

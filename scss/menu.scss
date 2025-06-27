@@ -169,10 +169,8 @@
             justify-content: space-between;
             align-items: center;
             gap: 20px;
-
             >div {
               position: relative;
-
               &::after {
                 content: '';
                 position: absolute;
@@ -186,7 +184,6 @@
               >p {
                 font-size: 14px;
                 color: rgb(114, 114, 114);
-
                 >span {
                   font-size: 14px;
                   color: $main-font-color;
@@ -543,7 +540,6 @@
             .swiper-slide {
               .card {
                 height: 250px;
-  
                 button {
                   gap: 0;
                   .thumb {
@@ -565,10 +561,52 @@
           }
         }
         .info-card {
-          width: 100%; height: 350px;
+          width: 100%; height: auto;
           top: 0;
+          .info-wrap{
+            padding-bottom: 15px;
+          }
           .ingredient-wrap {
             padding: 20px 30px;
+            .top {
+              gap: 20px;
+              >div {
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                gap: 8px;
+                >p {
+                  font-size: 14px;
+                  display: flex;
+                  flex-direction: column;
+                  gap: 3px;
+                  span{
+                    font-size: 13px;
+                  }
+                }
+              }
+              .left {
+                flex: 1;
+                &::after {
+                  right: -10px;
+                }
+              }
+  
+              .center {
+                flex: 1;
+                &::after {
+                  right: -10px;
+                }
+              }
+  
+              .right {
+                &::after {
+                  width: 0;
+                }
+  
+                flex: 1;
+              }
+            }
           }
         }
       }
@@ -681,7 +719,7 @@
             .info-card {
               position: fixed;
               width: 90%; height: auto;
-              top: 30%;
+              top: 50%;
               border: 1px solid $sub-font-color;
               .info-wrap{
                 margin-bottom: 20px;
@@ -693,10 +731,9 @@
                   justify-content: space-between;
                   align-items: center;
                   gap: 0px;
-      
                   >div {
                     flex: 1;
-                    position: relative;
+                    gap: 8px;
                     &::after {
                       content: '';
                       position: absolute;
@@ -706,6 +743,7 @@
                     }
       
                     >p {
+                      gap: 3px;
                       font-size: 14px;
                       color: rgb(114, 114, 114);
       
