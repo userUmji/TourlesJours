@@ -406,7 +406,7 @@ header .mobile-nav {
 
 /*------------- mainVisual -------------*/
 .mainVisual {
-  margin-top: 60px;
+  margin-top: 90px;
   padding: 0;
 }
 .mainVisual .swiper-wrapper {
@@ -1521,7 +1521,7 @@ header .mobile-nav {
     width: 100%;
     height: 250px;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 30px auto;
   }
   .mainVisual .swiper img {
     width: 100%;
@@ -1851,7 +1851,7 @@ header .mobile-nav {
     display: none;
   }
   .search-burial .inner .search-text h4,
-  .search-burial .inner .search-text h3 {
+.search-burial .inner .search-text h3 {
     font-size: 20px;
   }
   .search-burial .inner .search-text p {

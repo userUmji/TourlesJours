@@ -929,7 +929,7 @@ html {
     margin-right: 0;
   }
   .inner #container .History00 .History02 .timeline .timeline-item.left,
-  .inner #container .History00 .History02 .timeline .timeline-item.right {
+.inner #container .History00 .History02 .timeline .timeline-item.right {
     left: 0;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -938,17 +938,17 @@ html {
     text-align: left;
   }
   .inner #container .History00 .History02 .timeline .timeline-item.left::before,
-  .inner #container .History00 .History02 .timeline .timeline-item.right::before {
+.inner #container .History00 .History02 .timeline .timeline-item.right::before {
     left: 20px;
     right: auto;
   }
   .inner #container .History00 .History02 .timeline .timeline-item.left::after,
-  .inner #container .History00 .History02 .timeline .timeline-item.right::after {
+.inner #container .History00 .History02 .timeline .timeline-item.right::after {
     left: 28px;
     right: auto;
   }
   .inner #container .History00 .History02 .timeline .timeline-item.left .tl-content,
-  .inner #container .History00 .History02 .timeline .timeline-item.right .tl-content {
+.inner #container .History00 .History02 .timeline .timeline-item.right .tl-content {
     margin-left: 10px;
     margin-right: 0;
   }
