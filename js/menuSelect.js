@@ -52,7 +52,7 @@ swiper03 = new Swiper(".mySwiper03", {
   breakpoints: {
     0: {
       slidesPerView: 3,
-      spaceBetween : 10,
+      spaceBetween : 30,
     },
     768:{
       slidesPerView: 4,
@@ -71,7 +71,7 @@ swiper04 = new Swiper(".mySwiper04", {
   breakpoints: {
     0: {
       slidesPerView: 3,
-      spaceBetween : 10,
+      spaceBetween : 30,
     },
     768:{
       slidesPerView: 4,
@@ -90,7 +90,7 @@ swiper05 = new Swiper(".mySwiper05", {
   breakpoints: {
     0: {
       slidesPerView: 3,
-      spaceBetween : 10,
+      spaceBetween : 30,
     },
     768:{
       slidesPerView: 4,
@@ -109,7 +109,7 @@ swiper06 = new Swiper(".mySwiper06", {
   breakpoints: {
     0: {
       slidesPerView: 3,
-      spaceBetween : 10,
+      spaceBetween : 30,
     },
     768:{
       slidesPerView: 4,
@@ -128,7 +128,7 @@ swiper07 = new Swiper(".mySwiper07", {
   breakpoints: {
     0: {
       slidesPerView: 3,
-      spaceBetween : 10,
+      spaceBetween : 30,
     },
     768:{
       slidesPerView: 4,
@@ -147,7 +147,7 @@ swiper08 = new Swiper(".mySwiper08", {
   breakpoints: {
     0: {
       slidesPerView: 3,
-      spaceBetween : 10,
+      spaceBetween : 30,
     },
     768:{
       slidesPerView: 4,
